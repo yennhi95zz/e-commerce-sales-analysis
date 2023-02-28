@@ -9,10 +9,11 @@ To run the code in this repository, you will need to have Python 3 and the follo
 - numpy
 - matplotlib
 - plotly
+
 You can install these libraries using pip:
 `pip install pandas numpy matplotlib plotly`
 
-In addition, you will need to download the e-commerce sales dataset from Kaggle and save it in the data/ directory. The dataset can be found at the following link:https://www.kaggle.com/carrie1/ecommerce-data
+In addition, you will need to download the e-commerce sales dataset from Kaggle and save it in the data/ directory. The dataset can be found at the following link: https://www.kaggle.com/carrie1/ecommerce-data
 
 ## Running the Code
 The main code for the analysis is provided in the Jupyter notebook sales_analysis.ipynb. To run the notebook, navigate to the notebooks/ directory and run the following command:
