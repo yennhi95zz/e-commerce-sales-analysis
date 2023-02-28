@@ -23,13 +23,13 @@ This will open Jupyter Notebook in your web browser. Click on the sales_analysis
 ## File Structure
 ```
 ├── data
-│   └── ecommerce_data.csv
+│   └── ecommerce_data.zip
 ├── notebooks
 │   └── sales_analysis.ipynb
 ├── README.md
 └── requirements.txt
 ```
-- `data/ecommerce_data.csv`: The e-commerce sales dataset downloaded from Kaggle.
+- `data/ecommerce_data.zip`: The e-commerce sales dataset downloaded from Kaggle.
 - `notebooks/sales_analysis.ipynb`: Jupyter notebook containing the main code for the analysis.
 - README.md: This README file.
 - requirements.txt: List of Python libraries required to run the code.
