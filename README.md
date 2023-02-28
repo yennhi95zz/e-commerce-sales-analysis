@@ -36,10 +36,8 @@ This will open Jupyter Notebook in your web browser. Click on the sales_analysis
 
 ## References
 - Kaggle Dataset: https://www.kaggle.com/carrie1/ecommerce-data
-- My [Github](https://github.com/yennhi95zz)
-- My [Kaggle](https://www.kaggle.com/nhiyen)
-- My posts on [Medium](https://medium.com/@yennhi95zz)
-- More sharings on [Linkedin](https://www.linkedin.com/in/nhi-yen/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+*Stay connected on [LinkedIn](https://www.linkedin.com/in/nhi-yen/), [Medium](https://medium.com/@yennhi95zz), [Kaggle](https://www.kaggle.com/nhiyen) and [Github](https://github.com/yennhi95zz) for valuable insights on Data Analysis and Science.*
