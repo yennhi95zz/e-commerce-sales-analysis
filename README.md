@@ -43,4 +43,4 @@ This will open Jupyter Notebook in your web browser. Click on the sales_analysis
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-*Stay connected on [LinkedIn](https://www.linkedin.com/in/nhi-yen/), [Medium](https://medium.com/@yennhi95zz), [Kaggle](https://www.kaggle.com/nhiyen) and [Github](https://github.com/yennhi95zz) for valuable insights on Data Analysis and Science.*
+*Stay connected on [LinkedIn]([https://www.linkedin.com/in/nhi-yen/](https://www.linkedin.com/in/yennhi95zz/)), [Medium](https://medium.com/@yennhi95zz), [Kaggle](https://www.kaggle.com/nhiyen) and [Github](https://github.com/yennhi95zz) for valuable insights on Data Analysis and Science.*
