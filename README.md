@@ -13,7 +13,7 @@ To run the code in this repository, you will need to have Python 3 and the follo
 You can install these libraries using pip:
 `pip install pandas numpy matplotlib plotly`
 
-In addition, you will need to download the e-commerce sales dataset from Kaggle and save it in the data/ directory. The dataset can be found at the following link: https://www.kaggle.com/carrie1/ecommerce-data
+In addition, you will need to download the e-commerce sales dataset from Kaggle and save it in the data/ directory. The dataset can be found at the following link: https://www.kaggle.com/datasets/nhiyen/e-commerce-data
 
 ## Running the Code
 The main code for the analysis is provided in the Jupyter notebook sales_analysis.ipynb. To run the notebook, navigate to the notebooks/ directory and run the following command:
@@ -36,7 +36,9 @@ This will open Jupyter Notebook in your web browser. Click on the sales_analysis
 - requirements.txt: List of Python libraries required to run the code.
 
 ## References
-- Kaggle Dataset: https://www.kaggle.com/carrie1/ecommerce-data
+- Kaggle Dataset: https://www.kaggle.com/datasets/nhiyen/e-commerce-data
+- Original Data Source: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- Detail Explanation about the code on [MEDIUM](https://medium.com/@yennhi95zz/unleashing-the-power-of-e-commerce-sales-analysis-a-case-study-4c64871a86ee)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
